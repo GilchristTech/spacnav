@@ -1,5 +1,5 @@
 import { describe, test, it, expect, beforeEach, vi } from "vitest";
-import { initSpacnavElementMethods } from "./spatnav.js";
+import initSpacnavElementMethods from "./spacnav.js";
 
 // Set up a basic DOM environment for each test
 beforeEach(() => {

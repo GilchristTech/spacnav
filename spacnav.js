@@ -629,3 +629,5 @@ export function initSpacnavElementMethods () /* void */ {
   HTMLElement.prototype.iterSpacnavCandidates           = iterSpacnavCandidates;
   HTMLElement.prototype.getSpacnavDistanceTo            = getSpacnavDistanceTo;
 }
+
+export default initSpacnavElementMethods;

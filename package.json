@@ -1,6 +1,6 @@
 {
   "name": "@gilchrist/spacnav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "spacnav.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "browser"
   ],
   "author": "Gilchrist Pitts",
-  "license": "ISC",
-  "description": "Small HTMLElement bindings for spatial navigation",
+  "license": "MIT",
+  "description": "HTMLElement bindings for spatial navigation",
   "devDependencies": {
     "@vitest/browser-playwright": "^4.1.2",
     "vitest": "^4.1.2"
